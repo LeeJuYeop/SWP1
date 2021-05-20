@@ -1,2 +1,2 @@
-20213058	LeeJuYeop
+LeeJuYeop:20213058
 kookmin univ. SW dept

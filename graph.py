@@ -1,4 +1,5 @@
 import matplotlib
+
 matplotlib.use('Agg')
 from cgi import parse_qs
 from template import html
